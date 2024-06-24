@@ -35,8 +35,8 @@ We use the Breast Cancer Wisconsin (Diagnostic) Dataset, which contains features
 - **Diagnosis**: Malignant (M) or Benign (B)
 
 ## Project Structure
-<br>
-<br>breast-cancer-prediction/
+
+breast-cancer-prediction/
 <br>├── data/
 <br>│ └── breast_cancer_data.csv
 <br>├── notebooks/
