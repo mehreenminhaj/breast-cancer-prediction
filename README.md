@@ -105,11 +105,11 @@ Our best-performing model achieved an accuracy of XX% on the test set. Below is 
 
 | Model               | Accuracy | Precision | Recall | F1-Score |
 |---------------------|----------|-----------|--------|----------|
-| Logistic Regression | XX%      | XX%       | XX%    | XX%      |
-| Decision Tree       | XX%      | XX%       | XX%    | XX%      |
-| Random Forest       | XX%      | XX%       | XX%    | XX%      |
-| SVM                 | XX%      | XX%       | XX%    | XX%      |
-| k-NN                | XX%      | XX%       | XX%    | XX%      |
+| Logistic Regression | 0.00%    | 0.00%     | 0.00%  | 0.00%    |
+| Decision Tree       | 0.00%    | 0.00%     | 0.00%  | 0.00%    |
+| Random Forest       | 0.00%    | 0.00%     | 0.00%  | 0.00%    |
+| SVM                 | 0.00%    | 0.00%     | 0.00%  | 0.00%    |
+| k-NN                | 0.00%    | 0.00%     | 0.00%  | 0.00%    |
 
 ## Contributing
 We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
