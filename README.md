@@ -35,20 +35,21 @@ We use the Breast Cancer Wisconsin (Diagnostic) Dataset, which contains features
 - **Diagnosis**: Malignant (M) or Benign (B)
 
 ## Project Structure
-breast-cancer-prediction/
-├── data/
-│ └── breast_cancer_data.csv
-├── notebooks/
-│ └── breast_cancer_prediction.ipynb
-├── src/
-│ ├── data_preprocessing.py
-│ ├── feature_engineering.py
-│ ├── model_training.py
-│ └── model_evaluation.py
-├── results/
-│ └── model_performance.png
-├── README.md
-└── requirements.txt
+<br>
+<br>breast-cancer-prediction/
+<br>├── data/
+<br>│ └── breast_cancer_data.csv
+<br>├── notebooks/
+<br>│ └── breast_cancer_prediction.ipynb
+<br>├── src/
+<br>│ ├── data_preprocessing.py
+<br>│ ├── feature_engineering.py
+<br>│ ├── model_training.py
+<br>│ └── model_evaluation.py
+<br>├── results/
+<br>│ └── model_performance.png
+<br>├── README.md
+<br>└── requirements.txt
 
 ## Installation
 To run this project, you need Python 3.6 or above. Follow these steps to set up the environment:
